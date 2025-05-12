@@ -9,12 +9,12 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: "Bungee", cursive;
+    font-family: "Limelight", sans-serif;
     font-weight: normal;
 }
 
 body, input, textarea {
-    font-family: "Roboto", sans-serif;
+    font-family: "Limelight", sans-serif;
 }
 
 header {
@@ -76,7 +76,7 @@ section p {
 }
 
 .store-front {
-    margin-right: 32px;
+    height: 320px;
 }
 
 .social-links img {
